@@ -15,7 +15,6 @@ No guarantees this will work for you, use at your own risk!
 - payment.addr file with your source wallet's address in your node's folder where you'll run the scripts for build and send (and sign if you don't use a cold sys)
 - have a logs folder structure within $NODE_HOME called 'logs' containing 'payments' and 'sent' and 'sweeps'
 - sign transactions on another "cold" system (can still be done on the node, just put the cold scripts on the node in that case)
-- have a logs folder structure within your "cold" system called 'logs'
 
 ## Usage
 
