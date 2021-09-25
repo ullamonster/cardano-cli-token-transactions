@@ -2,6 +2,8 @@
 
 No guarantees this will work for you, use at your own risk!
 
+These scripts DO NOT account for NFTs or other native tokens and should not be used if you have anything besides ADA in the wallet.
+
 ## Files
 
 - buildTX.sh - Builds a raw transaction for the amount of lovelace and the destination address you provide as inputs, ready for signing
